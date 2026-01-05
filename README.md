@@ -1,6 +1,6 @@
-# HỆ THỐNG THI TRẮC NGHIỆM TRỰC TUYẾN - UTT
+# BÀI TẬP LỚN: HỆ THỐNG THI TRẮC NGHIỆM TRỰC TUYẾN - UTT
 
-Hệ thống thi trắc nghiệm trực tuyến được phát triển cho **Trường Đại học Công nghệ GTVT (UTT)**.
+Lưu ý quan trọng: Đây chỉ là hệ thống tham khảo theo mô hình mvc, không phải Hệ thống thi trắc nghiệm trực tuyến được phát triển cho **Trường Đại học Công nghệ GTVT (UTT)**.
 
 ## Mục lục
 
@@ -640,6 +640,4 @@ CNTT01,Công nghệ thông tin K01,1
 
 ## Bản quyền
 
-© 2026 UTT All Rights Reserved
-
-Developed for **Trường Đại học Công nghệ GTVT (UTT)**
+© 2026 MENJMOI All Rights Reserved
