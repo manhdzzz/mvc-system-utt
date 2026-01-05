@@ -1,6 +1,6 @@
 # BÀI TẬP LỚN: HỆ THỐNG THI TRẮC NGHIỆM TRỰC TUYẾN - UTT
 
-Lưu ý quan trọng: Đây chỉ là hệ thống tham khảo theo mô hình mvc, không phải Hệ thống thi trắc nghiệm trực tuyến được phát triển cho **Trường Đại học Công nghệ GTVT (UTT)**.
+**Lưu ý quan trọng**: Đây chỉ là hệ thống tham khảo theo mô hình mvc, không phải Hệ thống thi trắc nghiệm trực tuyến được phát triển cho **Trường Đại học Công nghệ GTVT (UTT)**.
 
 ## Mục lục
 
