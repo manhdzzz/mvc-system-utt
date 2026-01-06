@@ -1159,6 +1159,6 @@ Khi xóa dữ liệu, hệ thống xóa tất cả dữ liệu liên quan:
 
 ## Tác giả
 
-**MENJMOI EPU - DEV For University of Technology and Transport**
+**MENJMOI EPU - DEV For UTT**
 
 © 2026 MENJMOI All Rights Reserved
