@@ -60,7 +60,7 @@ $q = $data["q"] ?? "";
       <?php foreach ($rows as $i => $r): ?>
         <tr>
           <td style="text-align:center"><?= ($i + 1) + (($data['currPage'] ?? 1) - 1) * ($data['limit'] ?? 50) ?></td>
-          <td><?= htmlspecialchars($r["noi_dung"]) ?></td>
+          <td><?= htmlspecialchars($r["ten_mon"] ?? "") ?></td>
           <td><?= htmlspecialchars($r["noi_dung"]) ?></td>
           <td><?= htmlspecialchars($r["dap_an_a"]) ?></td>
           <td><?= htmlspecialchars($r["dap_an_b"]) ?></td>
